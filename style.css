@@ -90,3 +90,8 @@ span{
 .images:hover .image{
     left: 45%;
 }
+
+.logo{
+    width: 200px;
+    height: 80px;
+}
