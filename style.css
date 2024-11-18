@@ -168,7 +168,7 @@ span{
     }
 }
 
-/* @media (min-width: 900px){
+@media (min-width: 900px){
 
     .images {
         bottom: 0;
@@ -179,5 +179,3 @@ span{
         grid-template-columns: 1fr 1fr;
     }
 }
-
-*/
