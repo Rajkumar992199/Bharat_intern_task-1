@@ -167,6 +167,11 @@ span{
         display: block;
         color: #fff;
     }
+
+    .logo{
+        height: 60px;
+        width: 150px;
+    }
 }
 
 @media (min-width: 900px){
