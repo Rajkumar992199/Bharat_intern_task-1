@@ -1,4 +1,3 @@
 My Portfolio Website: https://rajkumar992199.github.io/Bharat_intern_task-1/   <br>
 This website is the part of my project which was given by Bharat Intern as Front-end Developer intern role in my first year of college. <br>
-Working on making it responsive and fully Functional. <br>
 Goal: Add bootstrap features and add night mode.
