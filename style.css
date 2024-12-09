@@ -7,7 +7,7 @@
 .hero{
     width: 100%;
     height: 144vh;
-    background-color: #ffcc00;
+    background-color: #ffdd00;
     @media (max-width: 750px){
         display:inline-block;
     }
@@ -146,6 +146,7 @@ span{
 }
 
 /* Responsive styling */
+/* Mobile view */
 @media (max-width: 768px){
     .navbar-links{
         display: none;
